@@ -83,6 +83,7 @@ const Page = () => {
 	Tsubakiya Quarttette(椿屋四重奏)<br/>
 	m-flo<br/>
 	Billie Eilish<br/>
+	ELECTROCUTICA<br/>
        </Paragraph>
       </Section>
       <Section delay={0.7}>
