@@ -1,11 +1,11 @@
 import NextLink from 'next/link'
-import { Button, Container, Box, Heading, Image, List, ListItem, SimpleGrid, useColorModeValue, Link, Icon } from "@chakra-ui/react"
+import { Button, Container, Box, Heading, Image, List, ListItem, /*SimpleGrid,*/ useColorModeValue, Link, Icon } from "@chakra-ui/react"
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import Layout from "../components/layouts/article"
 import Section from "../components/section"
 import Paragraph from "../components/paragraph"
 import { BioSection , BioYear } from "../components/bio"
-import { GridItem } from "../components/grid-item"
+//import { GridItem } from "../components/grid-item"
 import { IoLogoInstagram } from 'react-icons/io5'
 
 const Page = () => {
