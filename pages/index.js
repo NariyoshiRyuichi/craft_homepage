@@ -44,7 +44,7 @@ const Page = () => {
       </Box>
       <Section delay={0.1}>
        <Heading as="h3" variant="section-title">
-	About
+	About me
        </Heading>
        <Paragraph>
 	I&apos;m a system engineer. Until now my job is mainly analyzing and processing natural language. I have much interest of statistics and want to utilize it for business.{" "}
@@ -88,7 +88,7 @@ const Page = () => {
       </Section>
       <Section delay={0.7}>
        <Heading as="h3" variant="section-title">
-        About
+        About this site
        </Heading>
        <Paragraph>
         This site is maked by refference to <Link href="https://www.youtube.com/watch?v=bSMZgXzC9AA}">this movie</Link>  (Contributed by devaslife). I maked this site for studying skills for creating homepage and introducing about me.<br/>
