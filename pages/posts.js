@@ -4,6 +4,7 @@ import Section from "../components/section"
 import { GridItem } from "../components/grid-item"
 
 import thumbMakingHomepage from "../public/images/contents/homepage.jpg"
+import thumbSettingDomain from "../public/images/contents/domain.png"
 
 const Posts = () => (
   <Layout title="Posts">
@@ -17,6 +18,11 @@ const Posts = () => (
 	title="making homepage"
 	thumbnail={thumbMakingHomepage}
 	href="https://experim.hatenadiary.jp/entry/2022/01/07/001707"
+      />
+      <GridItem
+        title="setting domain"
+        thumbnail={thumbSettingDomain}
+        href="https://experim.hatenadiary.jp/entry/2022/01/07/145335"
       />
      </SimpleGrid>
     </Section>
