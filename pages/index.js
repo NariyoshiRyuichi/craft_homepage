@@ -80,10 +80,15 @@ const Page = () => {
        </Heading>
        <Paragraph>
 	Music<br/>
-	Tsubakiya Quarttette(椿屋四重奏)<br/>
-	m-flo<br/>
-	Billie Eilish<br/>
-	ELECTROCUTICA<br/>
+	Tsubakiya Quarttette(椿屋四重奏), m-flo, Billie Eilish, ELECTROCUTICA
+       </Paragraph>
+       <Paragraph>
+	Game<br/>
+	Music Game(GuitarFreaks, SOUND VOLTEX), League of Legends, Teamfight Tactics, Texas Holdem
+       </Paragraph>
+       <Paragraph>
+	Other<br/>
+	AtCoder, Geography
        </Paragraph>
       </Section>
       <Section delay={0.7}>
