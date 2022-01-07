@@ -18,7 +18,7 @@ const LogoBox = styled.span`
 `
 
 const Logo = () => {
-  const eyebrowImg = `/../public/images/eyebrow${useColorModeValue("","-dark")}.png`
+  const eyebrowImg = `/images/eyebrow${useColorModeValue("","-dark")}.png`
   return (
     <Link href="/">
       <a>
