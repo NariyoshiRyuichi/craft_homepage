@@ -71,7 +71,7 @@ const Page = () => {
        </BioSection>
        <BioSection>
         <BioYear>2019 to present</BioYear>
-        Lazy Worker.
+        A worker.
        </BioSection>
       </Section>
       <Section delay={0.4}>
